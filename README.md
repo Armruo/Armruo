@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 🎯🧩🔓
 -->
-
-<div align="right"> <img src="https://stats.justsong.cn/api/csdn?id=qq_43412005"> </div>
+<div align="right">![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=armruo.armruo.readme.md)</div>
 
 ### Hi there 👋
 
@@ -33,6 +32,4 @@ Here are some ideas to get you started:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 
-
-![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=armruo.armruo.readme.md)
-
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_43412005"> </div>
