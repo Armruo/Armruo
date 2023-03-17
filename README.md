@@ -50,5 +50,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://stats.justsong.cn/api/csdn?id=qq_43412005" />
 </p>
 <p align="left">
-  <img align="left" src="https://stats.justsong.cn/api/leetcode?username=luvu&cn=true" />
+  <img align="left" src="https://stats.justsong.cn/api/leetcode?username=Armruo" />
 </p>
