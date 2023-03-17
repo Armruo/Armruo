@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=armruo.armruo.readme.md)
 
 <!--
 **Armruo/Armruo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=armruo.armruo.readme.md)
+
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_43412005"> </div>
