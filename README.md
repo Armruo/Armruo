@@ -45,11 +45,4 @@ Here are some ideas to get you started:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 
-<!-- <p align="right">
-  <img align="left" src="https://stats.justsong.cn/api/csdn?id=qq_43412005" />
-</p> -->
-<!-- <p align="left">
-  <img align="left" src="https://stats.justsong.cn/api/leetcode?username=Armruo&cn_username=Armruo" />
-</p> -->
-
-![csdn](https://stats.justsong.cn/api/csdn?id=qq_43412005)![leetcode](https://stats.justsong.cn/api/leetcode/?username=ArmruoHawthorne&cn=true) 
+![csdn](https://stats.justsong.cn/api/csdn?id=qq_43412005)![leetcode](https://stats.justsong.cn/api/leetcode/?username=armruohawthorne&cn=true) 
