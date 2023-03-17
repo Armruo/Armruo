@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 🎯🧩🔓
 -->
-<div align="right">![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=armruo.armruo.readme.md)</div>
+<div align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=armruo.armruo.readme.md"> </div>
 
 ### Hi there 👋
 
