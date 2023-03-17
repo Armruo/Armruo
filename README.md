@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=1uvu.1uvu.readme.md)
+![Visitors number: ](https://visitor-badge.laobi.icu/badge?page_id=armruo.armruo.readme.md)
 
 <!--
 **Armruo/Armruo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
