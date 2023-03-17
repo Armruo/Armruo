@@ -29,10 +29,7 @@ Here are some ideas to get you started:
 
 #### 🔭 I’m currently working on BlockChain: 
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)![Binance](https://img.shields.io/badge/Binance-FCD535?style=flat-square&logo=binance&logoColor=white)![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=flat-square&logo=bitcoin&logoColor=white)
-
-![Web3.j](https://img.shields.io/badge/web3.j-1867C0?style=flat-square)![Web3.py](https://img.shields.io/badge/web3.py-48B0F1?style=flat-square)
-![swap](https://img.shields.io/badge/%F0%9F%A6%84uniswap%20&%20pancakeswap-E6526F?style=flat-square)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)![Binance](https://img.shields.io/badge/Binance-FCD535?style=flat-square&logo=binance&logoColor=white)![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=flat-square&logo=bitcoin&logoColor=white)![Web3.j](https://img.shields.io/badge/web3.j-1867C0?style=flat-square)![Web3.py](https://img.shields.io/badge/web3.py-48B0F1?style=flat-square)![swap](https://img.shields.io/badge/%F0%9F%A6%84uniswap%20&%20pancakeswap-E6526F?style=flat-square)
 
 #### 📚 Language & Tool:
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
@@ -66,8 +63,6 @@ Here are some ideas to get you started:
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
 
 ![csdn](https://stats.justsong.cn/api/csdn?id=qq_43412005)![leetcode](https://stats.justsong.cn/api/leetcode/?username=armruohawthorne&cn=true) 
 
