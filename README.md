@@ -43,9 +43,8 @@ Here are some ideas to get you started:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-<div align="right">
-  <img align="left" src="https://stats.justsong.cn/api/csdn?id=qq_43412005" />
-</div>
+
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_43412005"> </div>
 
 
 <p align="left">
