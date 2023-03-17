@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)![Binance](https://img.shields.io/badge/Binance-FCD535?style=flat-square&logo=binance&logoColor=white)![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=flat-square&logo=bitcoin&logoColor=white)
 
-![Web3.j](https://img.shields.io/badge/web3.j-1867C0?style=flat-square)&![Web3.py](https://img.shields.io/badge/web3.py-48B0F1?style=flat-square)
+![Web3.j](https://img.shields.io/badge/web3.j-1867C0?style=flat-square)![Web3.py](https://img.shields.io/badge/web3.py-48B0F1?style=flat-square)
 ![swap](https://img.shields.io/badge/%F0%9F%A6%84uniswap%20&%20pancakeswap-E6526F?style=flat-square)
 
 #### 📚 Language & Tool:
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -67,7 +67,8 @@ Here are some ideas to get you started:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-#### 🌱 Learning:
+
+##### 🌱 Learning:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
 
