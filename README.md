@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=flat-square&logo=remix&logoColor=white)
 
-#### 💻 IDEs:
+#### 💻 IDE:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
@@ -68,9 +68,10 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-##### 🌱 Learning:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
-
 
 ![csdn](https://stats.justsong.cn/api/csdn?id=qq_43412005)![leetcode](https://stats.justsong.cn/api/leetcode/?username=armruohawthorne&cn=true) 
+
+
+#### 🌱 Learning:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
