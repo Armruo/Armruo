@@ -30,11 +30,9 @@ Here are some ideas to get you started:
 #### 🔭 I’m currently working on BlockChain: 
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)![Binance](https://img.shields.io/badge/Binance-FCD535?style=flat-square&logo=binance&logoColor=white)![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=flat-square&logo=bitcoin&logoColor=white)
-🦄uniswap & 
 
- <a href="#">
-    <img src="[pancakeswap](https://www.bing.com/images/search?view=detailV2&ccid=EcUWBqeL&id=18F8CAE8C0E2359BD493A6755BB491E0DBDAAEF7&thid=OIP.EcUWBqeLb8NJ9m9KNNGILwHaHa&mediaurl=https%3a%2f%2fcryptomic.ru%2fwp-content%2fuploads%2f2021%2f04%2fPancakeswap-1068x1068.png&exph=1068&expw=1068&q=pancakeswap+emoji&simid=608028977156553475&FORM=IRPRST&ck=2A72BEFB4351573CE72446D6FAB2F348&selectedIndex=7&qpvt=pancakeswap+emoji&ajaxhist=0&ajaxserp=0)" alt="pancakeswap" style="vertical-align:top margin:6px 4px">
-  </a>  
+![Web3.j](https://img.shields.io/badge/web3.j-1867C0?style=for-the-badge&logo=web3.js&logoColor=white)&![Web3.py](https://img.shields.io/badge/web3.py-48B0F1?style=for-the-badge&logo=web3.js&logoColor=white)
+![swap](https://img.shields.io/badge/%F0%9F%A6%84uniswap%20&%20pancakeswap-E6526F?style=for-the-badge&logo=web3.js&logoColor=white)
 
 #### 📚 Language & Tool:
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
@@ -44,10 +42,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -58,6 +53,19 @@ Here are some ideas to get you started:
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-squaree&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+
+#### 🎡 Framework:
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
+
+#### 💻 IDEs:
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### 🌱 Learning:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
