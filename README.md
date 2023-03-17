@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 <p align="right">
-  <img align="left" src="[https://stats.justsong.cn/api/zhihu?username=zjh567](https://stats.justsong.cn/api/csdn?id=qq_43412005)" />
+  <img align="left" src="https://stats.justsong.cn/api/csdn?id=qq_43412005" />
 </p>
 
 <p align="left">
