@@ -67,3 +67,5 @@ Here are some ideas to get you started:
 #### 🌱 Learning:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armruo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
