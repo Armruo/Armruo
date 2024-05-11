@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 #### 📚 Language & Tool:
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
-![Python](https://img.shields.io/badge/Python-3373A7?style=for-the-badge&logo=python&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3373A7?style=for-the-badge&logo=python&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -63,9 +63,5 @@ Here are some ideas to get you started:
 <!-- csdn & leetcode info
 ![csdn](https://stats.justsong.cn/api/csdn?id=qq_43412005)![leetcode](https://stats.justsong.cn/api/leetcode/?username=armruohawthorne&cn=true) 
 -->
-
-#### 🌱 Learning:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
 
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armruo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
