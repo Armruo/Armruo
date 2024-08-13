@@ -78,6 +78,6 @@ Here are some ideas to get you started:
 -->
 
 today：Digital Twins
-report: Gartner;McKinsey & Company;Deloitte Insights;IBM Blockchain Blog;ConsenSys Blog;IEEE Xplore;Springer 和 Elsevier；metaverse
+report: Gartner;McKinsey & Company;Deloitte Insights;IBM Blockchain Blog;ConsenSys Blog;IEEE Xplore;Springer 和 Elsevier；metaverse；reading
 
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armruo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
